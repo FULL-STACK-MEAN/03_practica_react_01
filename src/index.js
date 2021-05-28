@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-ReactDOM.render(
+ReactDOM.render( // React utiliza el "lenguaje" jsx que es una extensión de JS para escribir html
   <React.StrictMode>
     <App />
   </React.StrictMode>,
